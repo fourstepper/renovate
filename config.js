@@ -2,8 +2,12 @@ module.exports = {
     platform: 'github',
 
     repositories: [
+        // Personal
         'fourstepper/renovate',
         'fourstepper/robinopletal.com',
+        // Qweebs
+        'qweebs/qweebs-terraform',
+        'qweebs/qweebs-ansible',
     ],
 
     requireConfig: true,
@@ -19,5 +23,6 @@ module.exports = {
         'docker-compose',
         'github-actions',
         'ansible',
+        'terraform'
     ],
 };
