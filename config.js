@@ -5,6 +5,7 @@ module.exports = {
         // Personal
         'fourstepper/renovate',
         'fourstepper/robinopletal.com',
+        'fourstepper/play-wireguard',
         // Qweebs
         'qweebs/qweebs-terraform',
         'qweebs/qweebs-ansible',
@@ -23,6 +24,7 @@ module.exports = {
         'docker-compose',
         'github-actions',
         'ansible',
+        'ansible-galaxy',
         'terraform'
     ],
 };
